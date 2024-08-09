@@ -1,0 +1,75 @@
+.container {
+    width: 400px;
+    background-color: #fff;
+    border-radius: 20px;
+    border: 4px solid rgba(0, 0, 0, 1);
+    overflow: hidden;
+}
+
+.imagecontainer {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.photo {
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    background-color: black;
+}
+
+.photoname {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.phototag {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #8e8f99;
+    margin-bottom: 5px;
+}
+
+.photolocation {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #8e8f99;
+}
+
+.statslist {
+    display: flex;
+    background-color: #9899A3;
+}
+
+.listitem {
+    flex: 1;
+    padding: 15px;
+    border: 1px solid #8e8f99;
+}
+
+.item {
+    display: block;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: black;
+}
+
+.itemnumber {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: black;
+}
