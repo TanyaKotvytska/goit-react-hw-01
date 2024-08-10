@@ -1,0 +1,25 @@
+.transcontainer {
+    margin-top: 30px;
+}
+
+.translist {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.listitemhead {
+    padding: 8px 12px;
+    border: 1px solid black;
+    text-align: left;
+    background-color: #4f4f54;
+    color: white;
+}
+
+.listitembody {
+    padding: 8px 12px;
+    border: 1px solid black;
+    text-align: left;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
