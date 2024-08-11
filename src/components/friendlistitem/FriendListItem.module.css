@@ -1,0 +1,23 @@
+.friendname {
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: black;
+    margin-top: 5px;
+}
+
+.statusisOnline {
+    color: green;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    margin-top: 5px;
+}
+
+.statusisOffline {
+    color: red;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    margin-top: 5px;
+}

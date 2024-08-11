@@ -1,4 +1,4 @@
-import FriendListItem from "./FriendListItem";
+import FriendListItem from "../friendlistitem/FriendListItem";
 import css from "../friendlist/FriendList.module.css"
 
 export default function FriendList({ friends }) {

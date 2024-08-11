@@ -1,4 +1,4 @@
-import css from "../friendlist/FriendList.module.css"
+import css from "../friendlistitem/FriendListItem.module.css"
 
 export default function FriendListItem({ friend: { name, avatar, isOnline } }) {
 	return (
